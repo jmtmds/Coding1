@@ -13,5 +13,5 @@ npm init –y
 2- Node :
 npm install node 
 
-3- criamos um novo arquivo.js,
+3- Criamos um novo arquivo.js,
 E mandamos um console.log("Hello World");
